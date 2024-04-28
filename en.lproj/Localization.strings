@@ -1,0 +1,14 @@
+ENABLED = "Enabled";
+ARTWORK = "Artwork";
+PLAYER = "Player";
+LABELS_AND_ROUTING_BUTTON = "Labels and Routing Button";
+LOCK_SCREEN = "Lock Screen";
+CONTACT_SUPPORT = "Contact (Support)";
+CREDITS = "Credits";
+
+HIDE_MUSIC_APP_ICON = "MIDE MUSIC APP ICON";
+HIDDEN = "Hidden";
+EXPANDED_ARTWORK_SIZE_WHEN = "Expanded artwork size when";
+PORTRAIT_MODE = "Portrait Mode";
+LANDSCAPE_MODE = "Landscape Mode
+MINIMIZED_ARTWORK-GROUPTITLE = "-- MINIMIZED ARTWORK --"
