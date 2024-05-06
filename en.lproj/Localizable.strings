@@ -117,6 +117,8 @@ ARTWORK_MINIMIZED = "Artwork Minimized";
 AUDIO_EQ = "Audio Equalizer";
 EQ_ALPHA = "Equalizer Alpha";
 EQ_COLOR = "Equalizer Color";
+CLIP_TITLE = "Clip Title";
+IF_SONG_TITLE_OVERLAPING_EQ = "If Media Titile Overlaps Equalizer";
 
 LABELS_AND_ROUTING_BUTTON = "Labels and Routing Button";
 BACKGROUND_ON_TAP = "Background on tap **";
