@@ -92,7 +92,10 @@ SHOW = "Afficher";
 VOLUME_UP = "Augmenter le volume";
 VOLUME_DOWN = "Baisser le volume";
 PLAY_PAUSE = "Pause/Résumer";
-----------------------------------------------------------------------
+
+
+
+
 ROUTING_BUTTON = "Routing Button";
 RESPRING_ACTION = "Respring";
 RESET_PREFS = "Reset Prefs";
@@ -116,3 +119,7 @@ TESTERS = "Testers";
 HELPERS = "Helpers";
 USED_RESOURCES = "Used Resources";
 MAIN_DEV = "Main Dev";
+
+
+//Mising alot
+FIX_LIVE_EQ = "Fix Live EQ";

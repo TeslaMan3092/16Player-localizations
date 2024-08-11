@@ -194,3 +194,4 @@ AUDIOSNAPSHOTSERVER_LIB_ALERT_TITLE = "Inorder to enable Live EQ you need AudioS
 AUDIOSNAPSHOTSERVER_LIB_ALERT_SUB_TITLE = "Get it from teslamans3092's repo";
 OPEN_IN_SILEO = "Open in Sileo";
 ADD_MY_REPO_IN_SILEO = "Add my repo in Sileo";
+FIX_LIVE_EQ = "Fix Live EQ";

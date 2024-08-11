@@ -190,3 +190,4 @@ EQ_ANIMATION_SPEED = "Kecepatan Animasi EQ";
 EQ_MINMAX_FREQUENCY = "Frekuensi EQ Min/Maks";
 EQ_MIN_FREQUENCY = "Frekuensi EQ Min";
 EQ_MAX_FREQUENCY = "Frekuensi Maks EQ";
+FIX_LIVE_EQ = "Perbaiki Live EQ";
