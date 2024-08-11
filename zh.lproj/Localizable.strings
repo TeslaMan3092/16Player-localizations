@@ -184,3 +184,4 @@ EQ_ANIMATION_SPEED =“均衡器动画速度”;
 EQ_MINMAX_FREQUENCY =“均衡器最小/最大频率”;
 EQ_MIN_FREQUENCY =“均衡器最小频率”;
 EQ_MAX_FREQUENCY =“均衡器最大频率”
+FIX_LIVE_EQ = "修复实时均衡器";
