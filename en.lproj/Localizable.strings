@@ -1,3 +1,4 @@
+/* ------------------------ Main Page & Multi Use ------------------------ */
 ENABLED = "Enabled";
 ENABLED_RESPRING = "Enabled **";
 ARTWORK = "Artwork";
@@ -6,171 +7,31 @@ LABELS_AND_ROUTING_BUTTON = "Labels and Routing Button";
 LOCK_SCREEN = "Lock Screen";
 CONTACT_SUPPORT = "Contact (Support)";
 CREDITS = "Credits";
-HIDE_MUSIC_APP_ICON = "HIDE MUSIC APP ICON";
-HIDDEN = "Hidden";
-EXPANDED_ARTWORK_SIZE_WHEN = "Expanded artwork size when";
-PORTRAIT_MODE = "Portrait Mode";
-LANDSCAPE_MODE = "Landscape Mode";
-MINIMIZED_ARTWORK-GROUPTITLE = "-- MINIMIZED ARTWORK --";
-ARTWORK_DROP_SHADOW = "Artwork drop shadow";
+
 SHADOW_Y_OFFSET = "Shadow Y offset";
 SHADOW_X_OFFSET = "Shadow X offset";
 SHADOW_RADIUS = "Shadow Radius";
 SHADOW_OPACITY = "Shadow Opacity";
 SHADOW_COLOR = "Shadow Color";
-ARTWORK_CORNER_RADIUS = "Artwork corner radius";
-EXPANDED_ARTWORK_CONFIG_GROUPTITLE = "-- Expanded artwork config --";
-SWIPE_GESTURES = "Swipe Gestures";
-TRANSPORT_BUTTONS = "Transport Buttons";
-PLAY_PAUSE_SKIP_BUTTONS = "Play/Pause, Skip, buttons";
-MOVE_TIME_LABELS_TO_SIDE_OF_TRACK = "Move time labels to side of track";
-ENABLE-RESPRING = "Enable **";
-MOVING_LABELS_METHOD = "Moving Labels Method **";
-SPOTIFY_FIX = "Spotify Fix";
-SPACING_BETWEEN_ARTWORK_AND_PLAYER = "spacing between artwork and player";
-TIME_CONTROLS_Y_OFFSET = "Time Contols Y offset";
-PLAYER_HEIGHT_WHEN_EXPANDED = "Player height when expanded";
-PLAYER_HEIGHT_SHRINK_FROM_TOP = "Player Height Shrink(from top)";
-WHEN_ARTWORK_EXPANDED = "When artwork expanded";
-WHOLE_PLAYER_SHIFT = "Whole Player Shift";
-ENABLE_IN_LANDSCAPE = "Enable In Landscape";
-PLAYER_BACKGROUND_GROUPTITLE = "-- Player Background --";
 BACKGROUND_COLOR = "Background color";
-BACKGROUND_ALPHA_ARTWORK_MINIMIZED = "Background Alpha - Artwork Minimized";
-BACKGROUND_ALPHA_ARTWORK_EXPANDED = "Background Alpha - Artwork Expanded";
-PLAYER_BACKGROUND_CORNER_RADIUS = "Player background corner radius";
-HIDE_WHEN_ARTWORK_EXPANDED = "Hide when Artwork Expanded";
-PLAYER_BORDER = "Player Border";
-BORDER = "Border ";
-BORDER_SIZE = "Border Size";
-BORDER_COLOR = "Border color";
-PLAYER_DROP_SHADOW = "Player Drop Shadow";
-
-BACKGROUND_DROP_SHADOW = "Background drop shadow";
-SWIPE_LEFT_ACTION = "Swipe Left action";
-SWIPE_RIGHT_ACTION = "Swipe Right action";
-SWIPE_UP_ACTION = "Swipe Up action";
-SWIPE_DOWN_ACTION = "Swipe Down action";
-PREVIOUS_TRACK = "Previous Track";
-NEXT_TRACK = "Next Track";
-BACKGROUND_ON_TAP = "Background on tap **";
-BUTTON_HAPTICS = "button haptics";
-POP_BEST = "pop (best)";
-BIG_POP = "big pop";
-THREE_BIG_POPS = "3 big pops";
-HAPTICS_ON_FINGER_LIFT = "Haptics on finger lift";
-BUTTON_COLORING_GROUPTITLE = "-- Button Coloring --";
-ENABLE_IN_CC = "Enabled in CC **";
-LEFT_BUTTON = "Left button";
-LEFT_BUTTON_PRESSED = "Left button pressed";
-MIDDLE_BUTTON = "Middle button";
-MIDDLE_BUTTON_PRESSED = "Middle button pressed";
-RIGHT_BUTTON = "Right button";
-RIGHT_BUTTON_PRESSED = "Right button pressed";
-TV_REMOTE_BUTTON = "TV Remote button";
-TV_REMOTE_PRESSED = "TV Remote pressed";
-LANGUAGE_OPTIONS_BUTTON = "Language options button";
-LANGUAGE_OPTIONS_PRESSED = "Language options pressed";
-LOCK_SCREEN = "Lock Screen";
-ARTWORK_WALLPAPER_GROUPTITLE = "-- Artwork Wallpaper --";
-BLUR = "Blur";
-ALPHA = "Alpha";
-FILTER_ALPHA = "Filter Alpha";
-ARTWORK_FILTER_COLOR = "Artwork Filter color";
-BLUR_GRADIENT_ENABLED = "Blur Gradient Enabled";
-HIDE_IN_LANDSCAPE_MODE = "Hide in Landscape mode";
-
-CLEAR_PART = "Clear part";
-IMAGE_PART = "Image part";
-IMAGE_BLUR = "Image Blur";
-HIDE_QUICK_ACTIONS_WHEN_ARTWORK_EXPANDED = "Hide quick actions when artwork expanded";
-NOTIFICATION_OFFSET = "Notification offset";
-PORTRAIT_MODE_ARTWORK_EXPANDED = "Portrait mode, Artwork Expanded";
-PORTRAIT_MODE_ARTWORK_MINIMIZED = "Portrait mode, Artwork Minimized";
-LANDSCAPE_MODE_ARTWORK_EXPANDED = "Landscape mode, Artwork Expanded";
-LANDSCAPE_MODE_ARTWORK_MINIMIZED = "Landscape mode, Artwork Minimized";
-VOLUME_HUD = "Volume Hud";
-VOLUME_HUD_BEHAVIOR = "Volume HUD behavior **";
-TWEAK_SUPPORT_GROUPTITLE = "-- Tweak Support --";
-EXIWALL = "Exiwall";
-AUTO_HIDE = "Auto Hide";
-SNOWBOARD_UI = "SnowBoard UI";
-BUTTON_THEMING_FIX = "Button Theming Fix";
-DEFAULT = "Default";
-ALWAYS_SHOW = "Always Show";
-HIDE = "Hide";
-SHOW = "Show";
-VOLUME_UP = "Vol Up";
-VOLUME_DOWN = "Vol Down";
-PLAY_PAUSE = "Pause/Play";
 RESPRING_MESAGE = "A ** means a respring is required to apply";
 EMPTY = "";
-
+HIDE = "Hide";
+SHOW = "Show";
+DEFAULT = "Default";
 ENABLED = "Enabled";
-ARTWORK = "Artwork";
-SHOW_WHEN = "Show when...";
-ARTWORK_EXPANDED = "Artwork Expanded";
-ARTWORK_MINIMIZED = "Artwork Minimized";
-AUDIO_EQ = "Audio Equalizer";
-EQ_ALPHA = "Equalizer Alpha";
-EQ_COLOR = "Equalizer Color";
-CLIP_TITLE = "Clip Title";
-IF_SONG_TITLE_OVERLAPING_EQ = "If Media Titile Overlaps Equalizer";
-
-LABELS_AND_ROUTING_BUTTON = "Labels and Routing Button";
-BACKGROUND_ON_TAP = "Background on tap **";
-AUDIO_EQUALIZER = "Audio Equalizer";
-MEDIA_OUTPUT = "media output";
-ROUTE_LABEL_MINIMIZED_ARTWORK = "Route Label Minimized Artwork";
-ROUTE_LABEL_EXPANDED_ARTWORK = "Route Label Expanded Artwork";
-HIDE_OR_SHOW_OUTPUT_TEXT_AWL_HIDE = "hide";
-HIDE_OR_SHOW_OUTPUT_TEXT_AWL_SHOW = "show";
-ROUTE_LABEL_ALPHA = "Route label alpha";
-TITLE_LABEL_GROUPTITLE = "-- title label --";
-TITLE_ALPHA = "Title Alpha";
-ALPHA_IN_CC = "Alpha in CC";
 ENABLE_COLORING = "Enable Coloring **";
-TITLE_LABEL_TEXT_COLOR = "Title label text Color";
-SUBTITLE_LABEL_GROUPTITLE = "-- subtitle label --";
-SUBTITLE_LABEL = "Subtitle label";
-SUBTITLE_ALPHA = "Subtitle alpha";
-SONG_SUBTITLE_ALPHA = "songSubTitleAlpha";
-SONG_SUBTITLE_ALPHA_CC_OR_NO = "songSubTitleAlphaCCorNo";
-SUBTITLE_LABEL_TEXT_COLOR = "Subtitle label text Color";
-ELAPSED_LEFT_TRACK_GROUPTITLE = "-- Elapsed(left) Track --";
-ALPHA_WHEN_SMALL = "Alpha When Small";
-COLOR_WHEN_SMALL = "Color When Small";
-ALPHA_WHEN_LARGE = "Alpha When Large";
-COLOR_WHEN_LARGE = "Color When Large";
-REMAINING_RIGHT_TRACK = "Remaining(right) Track";
-ROUTING_BUTTON = "Routing Button";
+ALPHA_IN_CC = "Alpha in CC";
+CANCEL = "Cancel";
+
+/* --- Utils Popup & Various Other Strings ---*/
 RESPRING_ACTION = "Respring";
 RESET_PREFS = "Reset Prefs";
 HOW_WOULD_YOU_LIKE_TO_RESPRING = "How would you like to respring?";
 DO_YOU_WANT_TO_RESPRING_NOW = "Do you want to respring now ?";
 RESPRING_WITH_MUSUIC_PLAYING = "Respring with Music playing";
-CANCEL = "Cancel";
 ARE_YOU_SURE = "Are You Sure?";
 THIS_WILL_REVERT_ANY_CHANGES_YOU_HAVE_MADE = "This will revert any changes you have made";
-COPY_DISCORD_TAG = "Copy Discord Tag";
-OPEN_REDDIT = "Open Reddit";
-OPEN_TWITTER = "Open Twitter";
-OPEN_GITHUB = "Open Github";
-CONTACT = "Contact";
-EMAIL_ME = "Email me";
-JOIN_MY_DISCORD_SERVER = "Join my Discord Server";
-CREDITS = "Credits";
-MAIN_DEVS = "Main Devs";
-TESTER_AND_ASSETS = "Tester and Assets";
-TESTERS = "Testers";
-HELPERS = "Helpers";
-USED_RESOURCES = "Used Resources";
-MAIN_DEV = "Main Dev";
-LIVE_EQ_GROUP = "-- Live EQ --";
-EQ_UPDATES_PER_SECOND = "EQ Updates Per Second";
-EQ_SENSITIVITY = "EQ Sensitivity";
-RANDOM_EQ = "Random EQ";
-LIVE_EQ =  "Live EQ";
 IMPORT_PREFS = "Import Prefs";
 EXPORT_PREFS = "Export Prefs";
 GET_SAVE_FROM_CLIPBOARD = "Get Save From Clipboard";
@@ -179,19 +40,206 @@ IMPORT_ERROR = "Import Error";
 IMPORTED_SUCCESSFULLY = "Imported Successfully";
 OK = "Ok";
 UTILS = "Utils";
-EQ_TYPE = "EQ Type";
-OLDDEVICE_COMPATABILITY_GROUPNAME = "-- Old Device Volume fix --";
-firstQuaterMaxRangeTEXT = "Vol 0%-25% Range Max";
-secondQuaterMaxRangeTEXT = "Vol 35%-50% Range Max";
-thirdQuaterMaxRangeTEXT = "Vol 50%-75% Range Max";
-fourthQuaterMaxRangeTEXT = "Vol 75%-100% Range Max";
-EQ_AIRPODSBOOST = "EQ AirPods Boost";
-EQ_ANIMATION_SPEED = "EQ Animation Speed";
-EQ_MINMAX_FREQUENCY = "EQ Min/Max Frequency";
-EQ_MIN_FREQUENCY = "EQ Min Frequency";
-EQ_MAX_FREQUENCY = "EQ Max Frequency";
-AUDIOSNAPSHOTSERVER_LIB_ALERT_TITLE = "Inorder to enable Live EQ you need AudioSnapshotServer";
-AUDIOSNAPSHOTSERVER_LIB_ALERT_SUB_TITLE = "Get it from teslamans3092's repo";
-OPEN_IN_SILEO = "Open in Sileo";
-ADD_MY_REPO_IN_SILEO = "Add my repo in Sileo";
-FIX_LIVE_EQ = "Fix Live EQ";
+FIX_LIVE_EQ = "Fix Live Visualizer";
+
+
+/* ------------------------ Artwork Page ------------------------*/
+HIDE_MUSIC_APP_ICON = "HIDE MUSIC APP ICON";
+HIDDEN = "Hidden";
+EXPANDED_ARTWORK_SIZE_WHEN = "Expanded artwork size when";
+PORTRAIT_MODE = "Portrait Mode";
+LANDSCAPE_MODE = "Landscape Mode";
+
+MINIMIZED_ARTWORK-GROUPTITLE = "-- MINIMIZED ARTWORK --";
+
+EXPANDED_ARTWORK_CONFIG_GROUPTITLE = "-- Expanded artwork config --";
+
+ARTWORK_DROP_SHADOW = "Artwork drop shadow";
+
+ARTWORK_CORNER_RADIUS = "Artwork corner radius";
+
+/* ------------------------ Player Page ------------------------ */
+
+SWIPE_GESTURES = "Swipe Gestures";
+/* Swipe Gestures Page */
+    SWIPE_LEFT_ACTION = "Swipe Left action";
+    SWIPE_RIGHT_ACTION = "Swipe Right action";
+    SWIPE_UP_ACTION = "Swipe Up action";
+    SWIPE_DOWN_ACTION = "Swipe Down action";
+
+    PREVIOUS_TRACK = "Previous Track";
+    NEXT_TRACK = "Next Track";
+    VOLUME_UP = "Vol Up";
+    VOLUME_DOWN = "Vol Down";
+    PLAY_PAUSE = "Pause/Play";
+
+TRANSPORT_BUTTONS = "Transport Buttons";
+/* Pause Play and skip buttons (Transport Buttons) *
+    BACKGROUND_ON_TAP = "Background on tap **";
+    BUTTON_HAPTICS = "button haptics";
+    POP_BEST = "pop (best)";
+    BIG_POP = "big pop";
+    THREE_BIG_POPS = "3 big pops";
+    HAPTICS_ON_FINGER_LIFT = "Haptics on finger lift";
+    BUTTON_COLORING_GROUPTITLE = "-- Button Coloring --";
+    ENABLE_IN_CC = "Enabled in CC **";
+    LEFT_BUTTON = "Left button";
+    LEFT_BUTTON_PRESSED = "Left button pressed";
+    MIDDLE_BUTTON = "Middle button";
+    MIDDLE_BUTTON_PRESSED = "Middle button pressed";
+    RIGHT_BUTTON = "Right button";
+    RIGHT_BUTTON_PRESSED = "Right button pressed";
+    TV_REMOTE_BUTTON = "TV Remote button";
+    TV_REMOTE_PRESSED = "TV Remote pressed";
+    LANGUAGE_OPTIONS_BUTTON = "Language options button";
+    LANGUAGE_OPTIONS_PRESSED = "Language options pressed";
+
+PLAY_PAUSE_SKIP_BUTTONS = "Play/Pause, Skip, buttons";
+MOVE_TIME_LABELS_TO_SIDE_OF_TRACK = "Move time labels to side of track";
+
+SPACING_BETWEEN_ARTWORK_AND_PLAYER = "spacing between artwork and player";
+
+TIME_CONTROLS_Y_OFFSET = "Time Contols Y offset";
+PLAYER_HEIGHT_WHEN_EXPANDED = "Player height when expanded";
+PLAYER_HEIGHT_SHRINK_FROM_TOP = "Player Height Shrink(from top)";
+WHEN_ARTWORK_EXPANDED = "When artwork expanded";
+WHOLE_PLAYER_SHIFT = "Whole Player Shift";
+ENABLE_IN_LANDSCAPE = "Enable In Landscape";
+
+PLAYER_BACKGROUND_GROUPTITLE = "-- Player Background --";
+BACKGROUND_ALPHA_ARTWORK_MINIMIZED = "Background Alpha - Artwork Minimized";
+BACKGROUND_ALPHA_ARTWORK_EXPANDED = "Background Alpha - Artwork Expanded";
+PLAYER_BACKGROUND_CORNER_RADIUS = "Player background corner radius";
+HIDE_WHEN_ARTWORK_EXPANDED = "Hide when Artwork Expanded";
+PLAYER_BORDER = "Player Border";
+BORDER = "Border";
+BORDER_SIZE = "Border Size";
+BORDER_COLOR = "Border color";
+
+PLAYER_DROP_SHADOW = "Player Drop Shadow";
+BACKGROUND_DROP_SHADOW = "Background drop shadow";
+
+
+/* ------------------------ Lock Screen Page ------------------------ */
+ARTWORK_WALLPAPER_GROUPTITLE = "-- Artwork Wallpaper --";
+BLUR = "Blur";
+ALPHA = "Alpha";
+ALWAYS_SHOW = "Always Show";
+
+FILTER_ALPHA = "Filter Alpha";
+ARTWORK_FILTER_COLOR = "Artwork Filter color";
+
+BLUR_GRADIENT_ENABLED = "Blur Gradient Enabled";
+HIDE_IN_LANDSCAPE_MODE = "Hide in Landscape mode";
+CLEAR_PART = "Clear part";
+IMAGE_PART = "Image part";
+IMAGE_BLUR = "Image Blur";
+
+HIDE_QUICK_ACTIONS_WHEN_ARTWORK_EXPANDED = "Hide quick actions when artwork expanded";
+
+NOTIFICATION_OFFSET = "Notification offset";
+PORTRAIT_MODE_ARTWORK_EXPANDED = "Portrait mode, Artwork Expanded";
+PORTRAIT_MODE_ARTWORK_MINIMIZED = "Portrait mode, Artwork Minimized";
+LANDSCAPE_MODE_ARTWORK_EXPANDED = "Landscape mode, Artwork Expanded";
+LANDSCAPE_MODE_ARTWORK_MINIMIZED = "Landscape mode, Artwork Minimized";
+
+VOLUME_HUD = "Volume Hud";
+VOLUME_HUD_BEHAVIOR = "Volume HUD behavior **";
+TWEAK_SUPPORT_GROUPTITLE = "-- Tweak Support --";
+
+AUTO_HIDE = "Auto Hide";
+
+SNOWBOARD_UI = "SnowBoard UI";
+BUTTON_THEMING_FIX = "Button Theming Fix";
+
+
+
+/* ------------------------ Labels and Routing Button------------------------ */
+ROUTING_BUTTON = "Routing Button";
+BACKGROUND_ON_TAP = "Background on tap **";
+
+AUDIO_EQUALIZER = "Audio Visualizer";
+AUDIO_EQ = "Audio Visualizer";
+/* --- Audio Viz ---*/
+
+    EQ_TYPE = "Viz Type **";
+    RANDOM_EQ = "Random Visualizer";
+    LIVE_EQ =  "Live Visualizer";
+
+    SHOW_WHEN = "Show when...";
+    ARTWORK_EXPANDED = "Artwork Expanded";
+    ARTWORK_MINIMIZED = "Artwork Minimized";
+
+    IF_SONG_TITLE_OVERLAPING_EQ = "If Media Titile Overlaps Visualizer";
+    CLIP_TITLE = "Clip Title";
+    
+    EQ_COLOR = "Visualizer Color";
+    EQ_ALPHA = "Visualizer Alpha";
+
+    LIVE_EQ_GROUP = "-- Live Visualizer --";
+    EQ_UPDATES_PER_SECOND = "Viz Updates Per Second";
+    EQ_SENSITIVITY = "Viz Sensitivity";
+    EQ_AIRPODSBOOST = "Viz AirPods Boost";
+    EQ_ANIMATION_SPEED = "Viz Animation Speed";
+
+    EQ_MINMAX_FREQUENCY = "Viz Min/Max Frequency";
+    EQ_MIN_FREQUENCY = "Viz Min Frequency";
+    EQ_MAX_FREQUENCY = "Viz Max Frequency";
+
+    OLDDEVICE_COMPATABILITY_GROUPNAME = "-- Old Device Volume fix --";
+    firstQuaterMaxRangeTEXT = "Vol 0%-25% Range Max";
+    secondQuaterMaxRangeTEXT = "Vol 35%-50% Range Max";
+    thirdQuaterMaxRangeTEXT = "Vol 50%-75% Range Max";
+    fourthQuaterMaxRangeTEXT = "Vol 75%-100% Range Max";
+
+        /* --- Live Viz Lib Alert ---*/
+        AUDIOSNAPSHOTSERVER_LIB_ALERT_TITLE = "Inorder to enable Live Visualizer you need AudioSnapshotServer";
+        AUDIOSNAPSHOTSERVER_LIB_ALERT_SUB_TITLE = "Get it from teslamans3092's repo";
+        OPEN_IN_SILEO = "Open in Sileo";
+        ADD_MY_REPO_IN_SILEO = "Add my repo in Sileo";
+
+MEDIA_OUTPUT = "media output";
+ROUTE_LABEL_MINIMIZED_ARTWORK = "Route Label Minimized Artwork";
+ROUTE_LABEL_EXPANDED_ARTWORK = "Route Label Expanded Artwork";
+
+HIDE_OR_SHOW_OUTPUT_TEXT_AWL_HIDE = "hide";
+HIDE_OR_SHOW_OUTPUT_TEXT_AWL_SHOW = "show";
+
+ROUTE_LABEL_ALPHA = "Route label alpha";
+
+TITLE_LABEL_GROUPTITLE = "-- title label --";
+TITLE_ALPHA = "Title Alpha";
+TITLE_LABEL_TEXT_COLOR = "Title label text Color";
+
+SUBTITLE_LABEL_GROUPTITLE = "-- subtitle label --";
+SUBTITLE_LABEL = "Subtitle label";
+SUBTITLE_ALPHA = "Subtitle alpha";
+SONG_SUBTITLE_ALPHA = "songSubTitleAlpha";
+SUBTITLE_LABEL_TEXT_COLOR = "Subtitle label text Color";
+
+ELAPSED_LEFT_TRACK_GROUPTITLE = "-- Elapsed(left) Track --";
+ALPHA_WHEN_SMALL = "Alpha When Small";
+COLOR_WHEN_SMALL = "Color When Small";
+ALPHA_WHEN_LARGE = "Alpha When Large";
+COLOR_WHEN_LARGE = "Color When Large";
+
+REMAINING_RIGHT_TRACK = "Remaining(right) Track";
+
+
+/* ------------------------ Credits/Contact Page ------------------------ */
+COPY_DISCORD_TAG = "Copy Discord Tag";
+OPEN_REDDIT = "Open Reddit";
+OPEN_TWITTER = "Open Twitter";
+OPEN_GITHUB = "Open Github";
+
+CONTACT = "Contact";
+EMAIL_ME = "Email me";
+JOIN_MY_DISCORD_SERVER = "Join my Discord Server";
+CREDITS = "Credits";
+
+MAIN_DEVS = "Main Devs";
+TESTER_AND_ASSETS = "Tester and Assets";
+TESTERS = "Testers";
+HELPERS = "Helpers";
+USED_RESOURCES = "Used Resources";
+MAIN_DEV = "Main Dev";

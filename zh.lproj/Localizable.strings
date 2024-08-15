@@ -36,7 +36,6 @@
 "DEFAULT"="默认";
 "ELAPSED_LEFT_TRACK_GROUPTITLE"="--已播放进度（左）轨道--";
 "EMPTY"="";
-"ENABLE-RESPRING"="启用 **";
 "ENABLED"="启用";
 "ENABLED_RESPRING"="启用 **";
 "ENABLE_COLORING"="启用着色 **";
@@ -74,7 +73,6 @@
 "MIDDLE_BUTTON_PRESSED"="按下中间按钮";
 "MINIMIZED_ARTWORK-GROUPTITLE"="-- 最小化的封面 --";
 "MOVE_TIME_LABELS_TO_SIDE_OF_TRACK"="将时间标签移动到轨道一侧";
-"MOVING_LABELS_METHOD"="移动标签方法**";
 "NEXT_TRACK"="下一曲";
 "NOTIFICATION_OFFSET"="通知条偏移量";
 "PAUSE_PLAY"="暂停\/播放";
@@ -108,9 +106,7 @@
 "SHOW_WHEN"="当...显示";
 "SNOWBOARD_UI"="SnowBoard UI";
 "SONG_SUBTITLE_ALPHA"="songSubTitleAlpha";
-"SONG_SUBTITLE_ALPHA_CC_OR_NO"="songSubTitleAlphaCCorNo";
 "SPACING_BETWEEN_ARTWORK_AND_PLAYER"="封面和播放器之间的间距";
-"SPOTIFY_FIX"="Spotify修复";
 "SUBTITLE_ALPHA"="字幕透明度";
 "SUBTITLE_LABEL"="字幕标签";
 "SUBTITLE_LABEL_GROUPTITLE"="-- 字幕标签 --";
