@@ -74,7 +74,7 @@ SWIPE_GESTURES = "Swipe Gestures";
     PLAY_PAUSE = "Pause/Play";
 
 TRANSPORT_BUTTONS = "Transport Buttons";
-/* Pause Play and skip buttons (Transport Buttons) *
+/* Pause Play and skip buttons (Transport Buttons) */
     BACKGROUND_ON_TAP = "Background on tap **";
     BUTTON_HAPTICS = "button haptics";
     POP_BEST = "pop (best)";
@@ -201,9 +201,6 @@ AUDIO_EQ = "Audio Visualizer";
 MEDIA_OUTPUT = "media output";
 ROUTE_LABEL_MINIMIZED_ARTWORK = "Route Label Minimized Artwork";
 ROUTE_LABEL_EXPANDED_ARTWORK = "Route Label Expanded Artwork";
-
-HIDE_OR_SHOW_OUTPUT_TEXT_AWL_HIDE = "hide";
-HIDE_OR_SHOW_OUTPUT_TEXT_AWL_SHOW = "show";
 
 ROUTE_LABEL_ALPHA = "Route label alpha";
 
